@@ -1,8 +1,8 @@
 ### Hi there 👋
-Other repositories I have worked on:
-Aakarsh911/Reversi
-dbusnel/Symphony
-dbusnel/symphony-appsmith
+### Other repositories I have worked on:
+### Aakarsh911/Reversi
+### dbusnel/Symphony
+### dbusnel/symphony-appsmith
 <!--
 **zdcarpenter/zdcarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
