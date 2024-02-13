@@ -3,6 +3,9 @@
 ### Aakarsh911/Reversi
 ### dbusnel/Symphony
 ### dbusnel/symphony-appsmith
+
+Private class project code available upon request
+
 <!--
 **zdcarpenter/zdcarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
